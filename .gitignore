@@ -1,0 +1,12 @@
+.vscode/
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
